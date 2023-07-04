@@ -8,6 +8,7 @@
 
 ## Habilidades
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS%203-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -21,5 +22,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ferrazzam_/)
 ![Email](https://img.shields.io/badge/-matheusferrazza@gmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
-# ![Status](https://github-readme-stats.vercel.app/api?username=maferfan&show_icons=true&theme=great-gatsby&custom_title=Matheus%20Ferrazza%20GitHub%20status)
-# ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maferfan&layout=compact&theme=great-gatsby&custom_title=Linguagens%20mais%20usadas)
